@@ -1,0 +1,60 @@
+div{
+font-family : "verb","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+display: inline;}
+
+#iconWrapper{
+display: block;
+float: left;}
+
+#icon{
+float:left;}
+
+#currentString{
+text-align: center;
+width: 100%;}
+
+#mainSnipWrap{
+display: block;
+float: left;}
+
+#fahr{
+display:inline;
+height:70px;
+margin-left: -15px;
+margin-bottom: 5px;
+vertical-align: middle;}
+
+#city{
+font-size: 2em;}
+
+#snip{
+font-size: 1.5em;}
+
+#feelsLike {
+font-size: 0.75em;}
+
+#subSnipWrap{
+display:block;
+float: left;}
+
+#astronomyBlurb{
+display:block;
+clear: both;}
+
+.astBlurb{
+float: left;
+margin-left: 1em;
+margin-right: 1em;}
+
+.astBlurb embed{
+margin-bottom: -2em;}
+
+#forecast{
+display:block;
+clear: left;
+padding-top: 2em;}
+
+.foreBlurb{
+float: left;
+margin-left: 1.5em;
+margin-right: 1.5em;}

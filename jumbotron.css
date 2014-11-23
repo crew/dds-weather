@@ -1,0 +1,20 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-bottom: 20px;
+}
+.jumbotron {
+  background-position-y: 30% !important;
+  background-image: url('img/boston_sunny.min.jpg') !important;
+  background-size: 100% auto;
+  background-position: center 30%;
+}
+.jumbotron h1{
+  text-shadow: 0em 0em 0.1em #000;
+}
+.jumbotron p{
+  text-shadow: 0em 0em 0.2em #000;
+}
+
+.row {
+color: black !important;
+}
